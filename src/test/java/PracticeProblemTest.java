@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.io.*;
 
-public class PracticeProblemTest {
+public class ExampleTest {
 
    @Test
    public void testOutput()
@@ -43,7 +43,9 @@ public class PracticeProblemTest {
 
    @Test
    public void testQ3()
+      
    {
-     
+     int num = 5;
+      assertEquals(5, num);
    }
 }
