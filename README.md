@@ -1,4 +1,0 @@
-# Instructions  
-
-  ## Questions
-  1. 
