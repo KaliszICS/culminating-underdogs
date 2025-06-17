@@ -1,0 +1,15 @@
+Game allows for multiple letters in a box, then identifies them as if they were in seperate boxes .  Should enforce one letter per box.
+Should reveal the answer at the ending
+Should not accept 5 letters that aren't a word in your database.
+Most of you classes seem to do nothing at all.
+Your search and sort are never used in your program at all or are used in a way that does nothing.
+The only polymorphism you do is java swing polymorphism which you did not implement yourself.
+Inheritance is also used in a way that has no impact on the code.
+All classes are missing javadocs and comments
+
+K(30%): 60%
+I(30%): 75%
+C(10%): 50%
+A(30%): 80%
+
+69.5%

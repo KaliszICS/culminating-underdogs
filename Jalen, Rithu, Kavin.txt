@@ -1,0 +1,8 @@
+Missing dividers in UML between class, variables and methods.
+Missing composition arrows when using a class in another class variable
+getStatus returns a Status but there is no Status class.
+WordleGame class using composition with almost every class and is missing these arrows.
+There is no inheritance or implementation in your program and it looks like no polymorphism.
+Some classes seem to do only one method with no information and should probably just be a static class instead of an object.
+
+65
